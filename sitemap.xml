@@ -1,7 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>None</loc>
+         <loc>https://kangkangzi.github.io/</loc>
+         <lastmod>2022-08-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://kangkangzi.github.io/about/</loc>
+         <lastmod>2022-08-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://kangkangzi.github.io/friend/</loc>
+         <lastmod>2022-08-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://kangkangzi.github.io/q%26a/</loc>
+         <lastmod>2022-08-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://kangkangzi.github.io/books/htpi/intro/</loc>
+         <lastmod>2022-08-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://kangkangzi.github.io/books/sicp/chapter1/</loc>
+         <lastmod>2022-08-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://kangkangzi.github.io/books/sicp/intro/</loc>
+         <lastmod>2022-08-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://kangkangzi.github.io/courses/cmu-15-150/intro/</loc>
+         <lastmod>2022-08-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://kangkangzi.github.io/courses/cmu-15-150/lab1/</loc>
+         <lastmod>2022-08-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://kangkangzi.github.io/courses/cmu-15-445/lab1/</loc>
+         <lastmod>2022-08-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://kangkangzi.github.io/courses/ucb-cs-168/intro/</loc>
+         <lastmod>2022-08-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://kangkangzi.github.io/language/rust/intro/</loc>
          <lastmod>2022-08-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
